@@ -1,0 +1,29 @@
+{
+  "name": "mp4compactor",
+  "description": "This module compacts an mp4 video using the given jump-points and duration.",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./lib/mp4compactor.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "fs": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skimotv/mp4compactor.git"
+  },
+  "keywords": [
+    "mp4compactor",
+    "H.264",
+    "mp4"
+  ],
+  "author": "Skimo TV Inc.,",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skimotv/mp4compactor/issues"
+  },
+  "homepage": "https://github.com/skimotv/mp4compactor"
+}
